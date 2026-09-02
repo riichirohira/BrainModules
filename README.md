@@ -84,8 +84,10 @@ supervision by Spencer L. Smith at the University of California, Santa Barbara.
 
 ## License
 
-No software or data license was included in the supplied archive. No permission
-beyond the rights granted by the relevant copyright holders and source-data
-terms should be assumed. The eLife article is separately distributed under its
-own Creative Commons license.
+The BrainModules software source code is licensed under the
+[MIT License](LICENSE). Copyright (c) 2026 Riichiro Hira.
 
+The MIT License applies to the software source code only. It does not grant
+rights to the underlying source data or other third-party materials, which
+remain subject to their respective terms. The eLife article is separately
+distributed under its own Creative Commons license.
