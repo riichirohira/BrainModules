@@ -5,6 +5,15 @@ seed-correlation maps in the mouse brain. Move the pointer over the cortical
 map to select a seed position; the viewer displays regions with similar
 corticocortical or thalamocortical input patterns.
 
+## Use BrainModules online
+
+For normal use, open the published online viewer:
+
+**[Launch BrainModules](https://web.ece.ucsb.edu/~riichirohira/BM2/html/)**
+
+No download or local setup is required. The ZIP archive in GitHub Releases is
+provided for offline use and preservation.
+
 The tool accompanies the anatomical seed-correlation analysis described in:
 
 > Hira R, Townsend LB, Smith IT, Yu C-H, Stirman JN, Yu Y, and Smith SL.
